@@ -1,0 +1,8 @@
+1.Hombre(Marco)
+2.Pompeyano(Marco)
+3.~Pompeyano(x3) ∨ Romano(x3)
+4.Gobernante(Cesar)
+5.~Romano(?) ∨ Leal(?, Cesar) ∨ Odia(?, Cesar)
+6.~Hombre(?) ∨ ~Gobernante(?2) ∨ ~IntentaAsesinar(?, ?2) ∨ ~Leal(?, ?2)
+7.IntentaAsesinar(Marco, Cesar)
+Q:Odia(Marco, Cesar)
