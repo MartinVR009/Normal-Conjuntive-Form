@@ -14,5 +14,6 @@
 #.Rule1_name(?1) ∨ Rule2_name(?2)  -> This Will accept variables that can be interchangeable between one or more Rules 
 
 Finally For your question
+
 #Q:Question_Name(Argument,Argument2) -> This will be a Question, you can put more than One Question at a time
 #Q:Question2_Name(Argument)
